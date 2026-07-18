@@ -1,0 +1,4 @@
+Name Capacity
+Savannah 10
+Jungle 5
+Watering_Hole 8

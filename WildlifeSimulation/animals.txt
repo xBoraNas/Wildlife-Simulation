@@ -1,0 +1,6 @@
+Species Health StressLevel Temperament
+Elephant 60 30 DEFENSIVE
+Giraffe 70 20 PASSIVE
+Zebra 80 25 CURIOUS
+Lion 90 40 AGGRESSIVE
+Rhino 50 35 DEFENSIVE

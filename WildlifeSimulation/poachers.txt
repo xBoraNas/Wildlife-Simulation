@@ -1,0 +1,5 @@
+Name TargetSpecies DangerLevel
+Wilhelm Zebra 4
+Anne Elephant 7
+Hans Lion 9
+Kurt Rhino 5
